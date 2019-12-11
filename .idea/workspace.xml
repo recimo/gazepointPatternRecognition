@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c571721-61b7-43e6-8137-4410de21bf58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/csvEyeTracker.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eyeTrackerConnection.py" beforeDir="false" afterPath="$PROJECT_DIR$/eyeTrackerConnection.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -101,6 +99,8 @@
       <workItem from="1574381784812" duration="2116000" />
       <workItem from="1574756478437" duration="27000" />
       <workItem from="1575037923906" duration="78000" />
+      <workItem from="1575377179905" duration="619000" />
+      <workItem from="1575451867672" duration="615000" />
     </task>
     <servers />
   </component>
